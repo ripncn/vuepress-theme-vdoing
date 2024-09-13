@@ -201,7 +201,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 
     // 页脚信息
     footer: {
-      createYear: 2024, // 博客创建年份
+      createYear: 2019, // 博客创建年份
       copyrightInfo:
         'RipnCN | <a href="https://github.com/ripncn/vuepress-theme-vdoing/blob/master/LICENSE" target="_blank">MIT License</a>', // 博客版权信息、备案信息等，支持a标签或换行标签</br>
     },
